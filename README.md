@@ -1,6 +1,8 @@
 # DDTS
 DNAse-DTS  - Dnase I Direct to Sequencing 
 
+````
+
 usage: DDTS.py -c [undigested.bam files] -e [digested.bam files] 
 
 Options:<br>
@@ -14,3 +16,4 @@ Options:<br>
   -w                    perform analysis with already generated WIG files <br>
   -W [int]              length of scan window (bp) (default: 250) <br>
   -s [int]              length of step increase (bp) (default: 25) <br>
+````
